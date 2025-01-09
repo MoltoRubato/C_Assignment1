@@ -36,7 +36,7 @@ This program processes lecturer class scores and calculates per-class and per-le
 
 ## Contributors
 - Ryan Huang
-- University of Melbourne COMP20005 Teaching Team (Question Provider)
+- University of Melbourne COMP20005 Teaching Team (Skeleton Code Provider)
 
 ## License
 This project is for academic purposes under the University of Melbourne's COMP20005 course.
