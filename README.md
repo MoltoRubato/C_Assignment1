@@ -35,7 +35,7 @@ This program processes lecturer class scores and calculates per-class and per-le
 - C  
 
 ## Contributors
-- Ryan Huang
+- Kerui Huang
 - University of Melbourne COMP20005 Teaching Team (Skeleton Code Provider)
 
 ## License
